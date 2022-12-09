@@ -1,0 +1,10 @@
+.jumbotron {
+    background-image: url("../images/belly_button.jpeg");
+    background-size: 100% 100%;
+    text-align: center;
+}
+
+body {
+    background-color: green;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
